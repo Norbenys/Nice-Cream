@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * @author Briceño, Yohan. uwu
  * Antepaz, Rodny. 
- * Noriega, Norbenys.
+ * Noriega, Norbenys. uwu
  */
 public class Main {
 
