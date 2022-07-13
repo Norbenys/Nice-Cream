@@ -2,8 +2,6 @@
 import java.io.IOException;
 import java.util.Scanner;
 /**
- * @author Briceño, Yohan. 
- * Antepaz, Rodny. uwú
  * Noriega, Norbenys. uwu
  */
 public class Main {
