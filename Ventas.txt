@@ -1,0 +1,163 @@
+
+Pedido de 
+Galletas
+Galletas
+Fresa
+Chocolate
+Chocolate
+Cono
+Y su precio fue de 5$
+
+Pedido de 
+Nutella
+Fresa
+Chocolate
+Mora
+Cono
+Y su precio fue de 4$
+
+Pedido de 
+Nutella
+Mantecado
+Cono
+Y su precio fue de 2$
+
+Pedido de 
+Sirope de caramelo
+Mantecado
+Mora
+Cono
+Y su precio fue de 3$
+
+Pedido de 
+Cereales
+Chocolate
+Cono
+Y su precio fue de 2$
+
+Pedido de 
+Cereales
+Fresa
+Kiwi
+Cono
+Y su precio fue de 3$
+
+Pedido de 
+Nutella
+Mantecado
+Cono
+Y su precio fue de 2$
+
+Pedido de 
+Sirope de caramelo
+Mantecado
+Mora
+Cono
+Y su precio fue de 3$
+
+Pedido de 
+Cereales
+Chocolate
+Cono
+Y su precio fue de 2$
+
+Pedido de 
+Cereales
+Fresa
+Kiwi
+Cono
+Y su precio fue de 3$
+
+Pedido de 
+Nutella
+Mantecado
+Cono
+Y su precio fue de 2$
+
+Pedido de 
+Sirope de caramelo
+Mantecado
+Mora
+Cono
+Y su precio fue de 3$
+
+Pedido de 
+Cereales
+Chocolate
+Cono
+Y su precio fue de 2$
+
+Pedido de 
+Cereales
+Fresa
+Kiwi
+Cono
+Y su precio fue de 3$
+
+Pedido de 
+Nutella
+Arequipe
+Mantecado
+Fresa
+Fresa
+Cono
+Y su precio fue de 5$
+
+Pedido de 
+Fresa
+Fresa
+Fresa
+Cono
+Y su precio fue de 3$
+
+Pedido de 
+Sirope de chocolate
+Mantecado
+Cono
+Y su precio fue de 2$
+
+Pedido de 
+Cereales
+Chocolate
+Conito
+Y su precio fue de 2$
+
+Pedido de 
+Galletas
+Mantecado
+Conito
+Y su precio fue de 2$
+
+Pedido de 
+Nutella
+Mantecado
+Conito
+Y su precio fue de 2$
+
+Pedido de 
+Sirope de caramelo
+Mantecado
+Mora
+Conito
+Y su precio fue de 3$
+
+Pedido de 
+Cereales
+Chocolate
+Conito
+Y su precio fue de 2$
+
+Pedido de 
+Cereales
+Fresa
+Kiwi
+Conito
+Y su precio fue de 3$
+
+Pedido de 
+Nutella
+Fresa
+Mora
+Chocolate
+Conito
+Y su precio fue de 4$
