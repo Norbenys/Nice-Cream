@@ -2,7 +2,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 /**
- * @author Briceño, Yohan. 
+ * @author Briceño, Yohan. uwu
  * Antepaz, Rodny. 
  * Noriega, Norbenys.
  */
